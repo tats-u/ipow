@@ -1,0 +1,10 @@
+---
+BasedOnStyle: Google
+---
+Language: Cpp
+AlignAfterOpenBracket: AlwaysBreak
+PointerAlignment: Right
+Standard: Cpp11
+ConstructorInitializerIndentWidth: 2
+ContinuationIndentWidth: 2
+AccessModifierOffset: -2
